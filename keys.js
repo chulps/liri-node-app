@@ -12,4 +12,4 @@ exports.spotify = {
  secret: process.env.SPOTIFY_SECRET
 };
 
-console.log("keys has loaded")
+console.log("keys have loaded")
