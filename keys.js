@@ -12,4 +12,8 @@ exports.spotify = {
  secret: process.env.SPOTIFY_SECRET
 };
 
+exports.omdb = {
+ omdb_key: process.env.OMDB_KEY
+};
+
 console.log("keys have loaded")
